@@ -1,0 +1,57 @@
+/*  Title: form.html styles
+	by: Cory Green
+	for: CSS selectors
+	class: Visual Frameworks, week 4
+*/
+
+/* h1 styling */
+h1{
+	margin: 20px 10px 5px 10px;		/*20px on top, 10px right, 5px bottom, 10px left */
+	border: 10px solid #0000FF;
+	padding: 10px;
+	background: #000452;
+	width: 80%; /* 80% of the browser width */
+	color: #FFFFFF;
+	text-align: center;
+}
+
+/* h2 stlying */
+h2{
+	margin: 20px 10px 5px 10px;		/*20px on top, 10px right, 5px bottom, 10px left */
+	border: 10px solid #0000FF;
+	padding: 10px;
+	background: #000452;
+	width: 80%; /* 80% of the browser width */
+	color: #FFFFFF;
+	text-align: center;
+}
+
+/* paragraph styling */
+p{
+	color: #000000;
+	font-style: italic;
+	font-family: Arial; /*changes font face (also when a font is multiple words, use "" ("Times new Roman")) */
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 24px; /* distance between each line */
+	text-align: left;  /*aligns text */
+}
+
+/* body styling */
+body{
+	background: rgba(0,100,255,0.6);
+}
+
+/* legend styling */
+legend{
+	font-size: 20px;
+	color: #000000;
+}
+
+/* li styling */
+li{
+	color: #000452;
+	font-style: italic;
+	font-size: 20px;
+}
+
